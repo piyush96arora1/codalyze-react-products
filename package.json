@@ -2,7 +2,7 @@
   "name": "cadalyze-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://piyush96arora1.github.io/codalyze-react-products/",
+  "homepage": "https://piyush96arora1.github.io/codalyze-react-products",
   "dependencies": {
     "@material-ui/core": "^3.9.3",
     "react": "^16.8.6",
