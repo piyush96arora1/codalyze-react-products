@@ -46,7 +46,7 @@ export class EditProduct extends React.Component {
             <div className="layout-column layout-margin layout-padding ">
                 <div className="layout-row flex">
                     <span className="flex-50">Name</span>
-                    <input style={Styles.input} className="flex-50" type="text" name="productName" id="productName" defaultValue={this.state.productName} />
+                    <input style={Styles.input} className="flex-50" type="text" name="productName" id="productName" readOnly value={this.state.productName} />
                 </div>
 
                 <div className="layout-row flex">
